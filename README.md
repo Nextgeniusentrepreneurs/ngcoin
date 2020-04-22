@@ -116,7 +116,7 @@ GAS 伴随着每个新区块的生成而产生。GAS 初期总量为零，伴随
 按照这样的发行曲线，第 1 年会有 16% 的 GAS 被创造，前 4 年会有 52% 的 GAS 被创造，前 12 年 80% 的 GAS 被创造。这些的 GAS 都会按照 NG COIN 的持有比例，记录在对应的地址上。NG COIN 持有人可以在任意时间进行发起一笔认领交易，将这些 GAS 认领到 NG COIN 的地址上。
 
 
-**iOs Wallet (Yun Tan)**
+**iOS Wallet (Yun Tan)**
 
 Check Balance
 
@@ -128,6 +128,18 @@ DAPP Integration
 
 Wallet Secuirty
 
+
+**Android Wallet (Chingun Erdene-Ochir)**
+
+Check Balance
+
+Transfer Balance
+
+Wallet Address Management
+
+DAPP Integration
+
+Wallet Secuirty
 
 **Admin Management**
 
